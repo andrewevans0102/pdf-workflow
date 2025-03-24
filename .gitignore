@@ -1,0 +1,17 @@
+pdf-workflow.sln
+
+frontend/repair-shop/.next
+
+frontend/repair-shop/node_modules
+
+frontend/repair-shop/next-env.d.ts
+
+backend/RepairShopApi/bin
+
+backend/RepairShopApi/obj
+
+backend/RepairShopApi/appsettings.Development.json
+
+backend/RepairShopApi/RepairShopApi.http
+
+.DS_Store
